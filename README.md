@@ -1,6 +1,6 @@
-# Introduction to unsupervised anomaly detection - Fujitsu Workshop
+# Introduction to unsupervised anomaly detection
 
-This repository contains the notebook of the unsupervised anomaly detection lab session of the Fujitsu workshop.
+This repository contains the notebook of a lab session introducing unsupervised anomaly detection.
 
 ### Requirements
 
